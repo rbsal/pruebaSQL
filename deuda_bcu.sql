@@ -147,4 +147,4 @@ order by 1,2;
 
 -- SWAP
 -- Febrero no cierra el día 15/02/2019, pero no se que movimientos tomaron. 
-
+--En sw no va nada porque es ficticio.
